@@ -10,3 +10,5 @@ const a = 5 * 2;
 const b = a * 4;
 const c = b - 1;
 
+const vault = document.getElementsByTagName("p")[0].innerHTML
+
